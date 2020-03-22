@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/icon1"
+        android:icon="@drawable/icon1"
+        android:state_selected="true"
+        android:color="@color/iconbg"
+        android:title="Icon1"/>
+
+
+    <item
+        android:id="@+id/icon2"
+        android:icon="@drawable/ico2"
+        android:state_selected="false"
+        android:color="@color/black"
+
+        android:title="Icon2"
+        />
+    <item
+        android:id="@+id/icon3"
+        android:icon="@drawable/icon3"
+        android:state_selected="false"
+        android:color="@color/black"
+
+        android:title="Icon3"/>
+    <item
+        android:id="@+id/icon4"
+        android:icon="@drawable/icon4"
+        android:state_selected="false"
+        android:color="@color/black"
+
+        android:title="Icon4"/>
+</menu>
